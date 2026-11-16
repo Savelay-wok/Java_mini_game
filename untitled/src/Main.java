@@ -29,5 +29,7 @@ public class Main {
 
   players[0].info();
   monster.info_monster();
+  
+  System.out.println("Привет!");
  }
 }
